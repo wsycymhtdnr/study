@@ -49,3 +49,5 @@ local.properties
 *.swo
 *~
 
+# Temporary test files
+src/algorithm/Test.kt

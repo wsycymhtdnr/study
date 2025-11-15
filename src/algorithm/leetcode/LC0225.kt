@@ -9,7 +9,7 @@ import java.util.*
  * https://leetcode.cn/problems/implement-stack-using-queues/description/
  */
 @Suppress("unused")
-class MyStack() {
+class MyStack {
     private val queue = LinkedList<Int>()
 
     fun push(x: Int) {

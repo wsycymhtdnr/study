@@ -7,7 +7,7 @@ package algorithm.leetcode
  * https://leetcode.cn/problems/min-stack/description/
  */
 @Suppress("unused")
-class MinStack() {
+class MinStack {
     val stack = java.util.ArrayDeque<IntArray>()
 
     fun push(`val`: Int) {

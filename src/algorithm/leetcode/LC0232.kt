@@ -7,7 +7,7 @@ package algorithm.leetcode
  * https://leetcode.cn/problems/implement-queue-using-stacks/description/
  */
 @Suppress("unused")
-class MyQueue() {
+class MyQueue {
     val inStack = java.util.ArrayDeque<Int>()
     val outStack = java.util.ArrayDeque<Int>()
 

@@ -7,14 +7,16 @@ package algorithm.leetcode
  * https://leetcode.cn/problems/reverse-linked-list/description/
  */
 @Suppress("unused")
-fun reverseList(head: ListNode?): ListNode? {
-    var prev: ListNode? = null
-    var cur = head
-    while (cur!= null) {
-        val next = cur.next
-        cur.next = prev
-        prev = cur
-        cur = next
+class LC0206 {
+    fun reverseList(head: ListNode?): ListNode? {
+        var prev: ListNode? = null
+        var cur = head
+        while (cur!= null) {
+            val next = cur.next
+            cur.next = prev
+            prev = cur
+            cur = next
+        }
+        return prev
     }
-    return prev
 }
