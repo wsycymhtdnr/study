@@ -2,10 +2,10 @@ package algorithm.nowcoder
 
 
 /**
- * @author     ： liyunfei
- * @date       ： 2025/11/15 22:22
- * @description： NC349.计算数组的小和
- * <a href="https://www.nowcoder.com/practice/6dca0ebd48f94b4296fc11949e3a91b8?tpId=196&tqId=40415&rp=1&sourceUrl=%2Fexam%2Foj%3Ftab%3D%25E7%25AE%2597%25E6%25B3%2595%25E7%25AF%2587%26topicId%3D196&difficulty=undefined&judgeStatus=undefined&tags=&title=349"/>
+ * author     : liyunfei
+ * date       : 2025/11/27
+ * description: NC349.计算数组的小和
+ * https://www.nowcoder.com/practice/6dca0ebd48f94b4296fc11949e3a91b8?tpId=196&tqId=40415&rp=1&sourceUrl=%2Fexam%2Foj%3Ftab%3D%25E7%25AE%2597%25E6%25B3%2595%25E7%25AF%2587%26topicId%3D196&difficulty=undefined&judgeStatus=undefined&tags=&title=349
  */
 @Suppress("unused")
 class NC0349 {

@@ -1,9 +1,9 @@
 package algorithm.leetcode
 
 /**
- * @author ： liyunfei
- * @date ： 2025-11-08 2:45
- * @description： 155.最小栈
+ * author     : liyunfei
+ * date       : 2025/11/27
+ * description: 155.最小栈
  * https://leetcode.cn/problems/min-stack/description/
  */
 @Suppress("unused")

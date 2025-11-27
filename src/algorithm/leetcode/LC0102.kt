@@ -3,9 +3,9 @@ package algorithm.leetcode
 import java.util.*
 
 /**
- * @author ： liyunfei
- * @date ： 2025-11-09 2:04
- * @description： 102.二叉树的层序遍历
+ * author     : liyunfei
+ * date       : 2025/11/27
+ * description: 102.二叉树的层序遍历
  * https://leetcode.cn/problems/binary-tree-level-order-traversal/description/
  */
 @Suppress("unused")

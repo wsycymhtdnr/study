@@ -1,9 +1,9 @@
 package algorithm.leetcode
 
 /**
- * @author ： liyunfei
- * @date ： 2025-11-08 1:00
- * @description： 86.分隔链表
+ * author     : liyunfei
+ * date       : 2025/11/27
+ * description: 86.分隔链表
  * https://leetcode.cn/problems/partition-list/description/
  */
 @Suppress("unused")

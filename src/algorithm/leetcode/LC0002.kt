@@ -1,10 +1,10 @@
 package algorithm.leetcode
 
 /**
- * @author ： liyunfei
- * @date ： 2025-11-08 0:37
- * @description： 2.两数相加
- * <a href="https://leetcode.cn/problems/add-two-numbers/description/"/>
+ * author     : liyunfei
+ * date       : 2025/11/27
+ * description: 2.两数相加
+ * https://leetcode.cn/problems/add-two-numbers/description/
  */
 @Suppress("unused")
 class LC0002 {

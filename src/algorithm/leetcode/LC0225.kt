@@ -3,9 +3,9 @@ package algorithm.leetcode
 import java.util.*
 
 /**
- * @author ： liyunfei
- * @date ： 2025-11-08 2:23
- * @description： 225.用队列实现栈
+ * author     : liyunfei
+ * date       : 2025/11/27
+ * description: 225.用队列实现栈
  * https://leetcode.cn/problems/implement-stack-using-queues/description/
  */
 @Suppress("unused")

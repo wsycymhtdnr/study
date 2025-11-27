@@ -1,10 +1,10 @@
 package algorithm.leetcode
 
 /**
- * @author     ： liyunfei
- * @date       ： 2025/11/15 23:53
- * @description： 493.翻转对
- * <a href="https://leetcode.cn/problems/reverse-pairs/description/"/>
+ * author     : liyunfei
+ * date       : 2025/11/27
+ * description: 493.翻转对
+ * https://leetcode.cn/problems/reverse-pairs/description/
  */
 @Suppress("unused")
 class LC0493 {

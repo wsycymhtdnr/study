@@ -1,9 +1,9 @@
 package algorithm.leetcode
 
 /**
- * @author ： liyunfei
- * @date ： 2025-11-09 1:33
- * @description： 104.二叉树的最大深度
+ * author     : liyunfei
+ * date       : 2025/11/27
+ * description: 104.二叉树的最大深度
  * https://leetcode.cn/problems/maximum-depth-of-binary-tree/description/
  */
 @Suppress("unused")

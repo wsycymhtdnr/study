@@ -1,9 +1,9 @@
 package algorithm.leetcode
 
 /**
- * @author ： liyunfei
- * @date ： 2025-11-08 1:57
- * @description： 232.用栈实现队列
+ * author     : liyunfei
+ * date       : 2025/11/27
+ * description: 232.用栈实现队列
  * https://leetcode.cn/problems/implement-queue-using-stacks/description/
  */
 @Suppress("unused")

@@ -1,9 +1,9 @@
 package algorithm.leetcode
 
 /**
- * @author ： liyunfei
- * @date ： 2025-11-09 1:54
- * @description： 543.二叉树的直径
+ * author     : liyunfei
+ * date       : 2025/11/27
+ * description: 543.二叉树的直径
  * https://leetcode.cn/problems/diameter-of-binary-tree/description/
  */
 @Suppress("unused")

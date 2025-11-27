@@ -1,9 +1,9 @@
 package algorithm.leetcode
 
 /**
- * @author ： liyunfei
- * @date ： 2025-11-09 0:08
- * @description： 641.设计循环双端队列
+ * author     : liyunfei
+ * date       : 2025/11/27
+ * description: 641.设计循环双端队列
  * https://leetcode.cn/problems/design-circular-deque/description/
  */
 @Suppress("unused")

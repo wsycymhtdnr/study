@@ -1,9 +1,9 @@
 package algorithm.leetcode
 
 /**
- * @author ： liyunfei
- * @date ： 2025-11-09 1:37
- * @description： 226.翻转二叉树
+ * author     : liyunfei
+ * date       : 2025/11/27
+ * description: 226.翻转二叉树
  * https://leetcode.cn/problems/invert-binary-tree/description/
  */
 @Suppress("unused")

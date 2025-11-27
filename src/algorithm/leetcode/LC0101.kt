@@ -1,9 +1,9 @@
 package algorithm.leetcode
 
 /**
- * @author ： liyunfei
- * @date ： 2025-11-09 1:43
- * @description： 101.对称二叉树
+ * author     : liyunfei
+ * date       : 2025/11/27
+ * description: 101.对称二叉树
  * https://leetcode.cn/problems/symmetric-tree/description/
  */
 @Suppress("unused")

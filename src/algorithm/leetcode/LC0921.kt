@@ -1,10 +1,10 @@
 package algorithm.leetcode
 
 /**
- * @author ： liyunfei
- * @date ： 2025-11-09 22:22
- * @description： 912.排序数组
- * <a href="https://leetcode.cn/problems/sort-an-array/description/"/>
+ * author     : liyunfei
+ * date       : 2025/11/27
+ * description: 912.排序数组
+ * https://leetcode.cn/problems/sort-an-array/description
  */
 @Suppress("unused")
 class LC0921 {

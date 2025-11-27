@@ -1,9 +1,9 @@
 package algorithm.leetcode
 
 /**
- * @author ： liyunfei
- * @date ： 2025-11-08 0:26
- * @description： 21.合并两个有序链表
+ * author     : liyunfei
+ * date       : 2025/11/27
+ * description: 21.合并两个有序链表
  * https://leetcode.cn/problems/merge-two-sorted-lists/description/
  */
 @Suppress("unused")

@@ -1,9 +1,9 @@
 package algorithm.leetcode
 
 /**
- * @author ： liyunfei
- * @date ： 2025-11-09 1:28
- * @description： 94.二叉树的中序遍历
+ * author     : liyunfei
+ * date       : 2025/11/27
+ * description: 94.二叉树的中序遍历
  * https://leetcode.cn/problems/binary-tree-inorder-traversal/description/
  */
 @Suppress("unused")
